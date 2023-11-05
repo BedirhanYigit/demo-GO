@@ -1,2 +1,2 @@
 # demo-GO
-Demo for GO exercises
+Demo for GO exercises!
